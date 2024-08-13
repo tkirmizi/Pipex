@@ -13,4 +13,5 @@ creation of `child processes` via `fork()` and manages inter-process communicati
 next thanks to pipe feature.
 
 
-<img width="664" alt="Screenshot 2024-08-12 at 22 06 44" src="https://github.com/user-attachments/assets/9a5b6295-0b6f-4911-be5d-899dd1caacac">
+![Screenshot 2024-08-12 at 22 46 26](https://github.com/user-attachments/assets/42cb94ac-99fb-4913-ba82-e01438c87200)
+
